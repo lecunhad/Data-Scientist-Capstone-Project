@@ -39,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About the project
 
-The objective of this project is to answer 3 business questions to meet the requirements of Project 1, from Udacity Data Scientist course. The chosen database was from Airbnb, with the objective of evaluating the data to assist students in Canada, a famous destination for studying the English language. 
+The objective of this project is develop a machine learning model to support our choice, in soccer match result, increasing the chance of success.
 
 ### Frameworks
 
@@ -66,25 +66,24 @@ This notebook was tested using Python 3.7+
 <!-- RUN -->
 ## Running
 
-There are 2 notebooks to be executed. Udacity_Projeto_1_Part_I is related to the first business question, and Udacity_Projeto_1_Part_II. The databases to be used on both is calendar and listings (they was uploaded in [Google Drive](https://drive.google.com/drive/folders/19OyP2QDz1iAcIGm-K_yVUe9yaePowjec?usp=sharing).
+There are 1 notebook to be executed. Data Scientist Capstone - Soccer Matches Predictor_v5, which is divided into 4 parts, following the [CRISP-DM](https://pt.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining) framework. The database to be used is Campeonato_Espanhol, which is uploaded as well.
 
 
 <!-- USECASES -->
 ## Use Cases
 
-Motivation: Support students who wants to travel abroad to study English, in order to improve a best choice and improve the planner.
-Three business questions:
-- Can they spend less money at some specific season or period time of the year?
-- What are the accommodation information most correlated to price variation?
-- Is possible to predict the price for respective acomodation according it features? 
+Motivation: Gambling is a practice since 3000 B.C. Nowadays, we have a lot of web platforms that explore since who will be eliminated in reality shows until all kinds of sports as snooker. Considering that I am a very fan of soccer and gambling, I am interested to start predict some matches considering the historical information and who knows, earn some money =)
 
+In this project, we will use the La Liga database, which information is gathered and sourced by [jokecamp](https://github.com/jokecamp/FootballData/tree/master/football-data.co.uk/spain) a user on github
+
+All the storytelling, developing and results you can find at my [Medium blog](https://lecunhad.medium.com/machine-learn-ops-gambling-d27dcb126ac3) 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-Retrain the models to improve predictions
+Evaluate other kinds of models and optimization, in order to evaluate if one of them or other parameters
 
-Collect other relevant pieces of information of accommodations and research about the rules of prices formulation.
+Collect other relevant pieces of information of crowd attendance, referee, players statistics and maybe other championships information which are running in parallel.
 
 
 <!-- CONTACT -->
