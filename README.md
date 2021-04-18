@@ -66,7 +66,7 @@ This notebook was tested using Python 3.7+
 <!-- RUN -->
 ## Running
 
-There are 1 notebook to be executed. Data Scientist Capstone - Soccer Matches Predictor_v5, which is divided into 4 parts, following the [CRISP-DM](https://pt.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining) framework. The database to be used is Campeonato_Espanhol, which is uploaded as well.
+There are 1 notebook to be executed. Data Scientist Capstone - Soccer Matches Predictor_v5, which is divided into 4 parts, following the [CRISP-DM](https://pt.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining) framework. The database to be used is Campeonato_Espanhol.xlsx, which is uploaded as well.
 
 
 <!-- USECASES -->
